@@ -11,7 +11,7 @@ The challenges get harder as you go, and every move matters if you want to reach
 ## 📁 Project Structure
 
 ```
-.
+├── README.md
 ├── LICENSE
 └── robotescape
     ├── core
