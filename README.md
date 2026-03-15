@@ -1,4 +1,4 @@
-# Escape-The-Cave
+# Escape The Cave
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
