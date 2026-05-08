@@ -9,13 +9,6 @@ Escape-The-Cave is a Java-based adventure game where players navigate through a 
 * Audio playback for menu music and game sound effects
 * Support for loading saved games
 
-## 🛠️ Tech Stack
-* Java 8 or later
-* Java Swing for GUI components
-* Java AWT for graphics and layouts
-* Java Util for utility classes, such as `ArrayList` and `Random`
-* Custom classes for game logic, GUI components, and audio playback
-
 ## 📦 Installation
 To install the game, follow these steps:
 1. Clone the repository using Git: `git clone https://github.com/your-username/Escape-The-Cave.git`
