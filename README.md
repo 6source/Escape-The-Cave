@@ -52,7 +52,7 @@ Escape-The-Cave/
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/menu.png)
+![Main Menu](menu.png)
 
 ### Gameplay
-![Gameplay](screenshots/game.png)
+![Gameplay](game.png)
